@@ -1,1 +1,2 @@
-# Houseplant-Haven-A-React-Redux-Shopping-Cart
+# Botanical-Haven
+Website for houseplant wholesaler
